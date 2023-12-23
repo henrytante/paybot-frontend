@@ -1,0 +1,9 @@
+.bg-primary{
+    background-color: rgb(4, 171, 201) !important;
+}
+a{
+    color: white !important;
+}
+.btn-primary{
+    background-color: rgb(4, 171, 201);
+}
